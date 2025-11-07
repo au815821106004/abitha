@@ -1,0 +1,12 @@
+#list
+List_1=[
+    "dog"
+    "cat"
+    "cow"
+    ]
+List_2=[
+    "banana"
+    "dosa"
+    "kiwi"
+    "mango"
+    ]
